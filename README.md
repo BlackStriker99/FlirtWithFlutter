@@ -2,6 +2,16 @@
 
 A new Flutter application.
 
+#Task Allocation
+1. List View - Sunny 
+2. Grid View - Umang + Fenil
+3. Login and Registration - Avinash 
+4. Tab Bar - Prince 
+5. Splash - Dashboard - Integration - Brijesh
+6. Progress Indicator Gallery + Text - Yash + Nimesh
+7. Bottom + Text - Abhishek + Himanshu 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
