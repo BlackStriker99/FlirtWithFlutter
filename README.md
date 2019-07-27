@@ -5,7 +5,7 @@ A new Flutter application.
 #Task Allocation
 1. List View - Sunny 
 2. Grid View - Umang + Fenil
-3. Login and Registration - Avinash 
+3. Login and Registration + Profile - Avinash 
 4. Tab Bar - Prince 
 5. Splash - Dashboard - Integration - Brijesh
 6. Progress Indicator Gallery + Text - Yash + Nimesh
